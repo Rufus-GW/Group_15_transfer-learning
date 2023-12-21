@@ -1,1 +1,4 @@
 # Group_15_transfer-learning
+
+BELOW ARE THE GROUP MEMBERS:-
+RUFUS GICHUKI - COM/B/01-00115/2019
